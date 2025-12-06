@@ -30,6 +30,7 @@
         "13": "A pretty good droid for coordinating attacks. Not good at fighting, just good at planning."
     },
     "Navbar": {
+        "websiteTitle": "Galaxy L10n Supplies",
         "searchPlaceholder": "What are you looking for?",
         "searchButtonLabel": "search products",
         "logoAlt": "Galaxy L10n Supplies",
@@ -43,13 +44,16 @@
         "navLinkVehicles": "VEHICLES"
     },
     "Home": {
+        "welcomeTitle": "Welcome to Galaxy L10n Supplies!",
         "welcomeSubtitle": "We provide everything you need to take on the Galactization (G11n) Challenge (and win).",
         "symbolAlt": "Imperial Credit currency symbol"
     },
     "Browse": {
         "browseTitleAll": "All",
         "browseTitleDroids": " droids",
-        "browseTitleVehicles": " vehicles"
+        "browseTitleVehicles": " vehicles",
+        "browseDroids": "Browse Droids",
+        "browseVehicles": "Browse Vehicles"
     },
     
     "Checkout": {

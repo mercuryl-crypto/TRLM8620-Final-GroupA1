@@ -257,6 +257,8 @@ const router = async () => {
    
     header.innerHTML = await Navbar.render();
     await Navbar.after_render();
+    // Update the document title dynamically
+    document.title = i18n.getString("Navbar", "websiteTitle");
     // footer.innerHTML = await Bottombar.render();
     // await Bottombar.after_render();
 
