@@ -30,98 +30,99 @@
         "13": "一个非常适合协调攻击的机器人。不擅长战斗，只擅长谋划。"
     },
     "Navbar": {
-        "websiteTitle": "银河 L10n Supplies",
-        "searchPlaceholder": "What are you looking for?",
-        "searchButtonLabel": "search products",
-        "logoAlt": "Galaxy L10n Supplies",
-        "searchIconAlt": "search icon",
-        "greetingText": "Hello G11N Warrior",
-        "historyLink": "ORDER HISTORY",
-        "arrowAlt": "Drop Down Arrow",
-        "cartAlt": "show cart",
-        "navLinkHome": "HOME",
-        "navLinkDroids": "DROIDS",
-        "navLinkVehicles": "VEHICLES"
+        "websiteTitle": "银河 L10n 补给品",
+        "searchPlaceholder": "你要买什么?",
+        "searchButtonLabel": "搜索产品",
+        "logoAlt": "银河 L10n 补给品",
+        "searchIconAlt": "搜索图标",
+        "greetingText": "你好 G11N 战士",
+        "historyLink": "订单历史记录",
+        "arrowAlt": "下拉箭头",
+        "cartAlt": "显示购物车",
+        "navLinkHome": "主页",
+        "navLinkDroids": "机器人",
+        "navLinkVehicles": "车辆"
     },
     "Home": {
-        "welcomeTitle": "Welcome to Galaxy L10n Supplies!",
-        "welcomeSubtitle": "We provide everything you need to take on the Galactization (G11n) Challenge (and win).",
-        "symbolAlt": "Imperial Credit currency symbol"
+        "welcomeTitle": "欢迎来到 银河 L10n 补给品!",
+        "welcomeSubtitle": "我们提供您应对银河系(G11n)挑战并赢得胜利所需的一切。",
+        "symbolAlt": "帝国信用货币符号"
     },
     "Browse": {
-        "browseTitleAll": "All",
-        "browseTitleDroids": " droids",
-        "browseTitleVehicles": " vehicles",
-        "browseDroids": "Browse Droids",
-        "browseVehicles": "Browse Vehicles"
+        "browseTitleAll": "所有的",
+        "browseTitleDroids": " 机器人",
+        "browseTitleVehicles": " 车辆",
+        "browseDroids": "浏览机器人",
+        "browseVehicles": "浏览车辆"
     },
     
     "Checkout": {
-        "checkoutTitle": "Checkout",
-        "shipSectionLabel": "Shipping Info",
-        "firstNameLabel": "First Name",
-        "lastNameLabel": "Last Name",
-        "coordinatesLabel": "Coordinates",
+        "checkoutTitle": "结账",
+        "shipSectionLabel": "运输信息",
+        "firstNameLabel": "名",
+        "lastNameLabel": "姓",
+        "coordinatesLabel": "坐标",
         "coordinatesHolder": "0,0,0",
-        "sectorLabel": "Sector",
-        "methodLabel": "Shipping Method",
-        "shipLightspeed": "Lightspeed",
-        "shipOvernight": "Overnight",
-        "shipStandard": "Standard",
-        "paySectionLabel": "Payment",
-        "payNameLabel": "Name on Card",
-        "payNameHolder": "First Last",
-        "accountLabel": "Credit Number",
+        "sectorLabel": "扇区",
+        "methodLabel": "运输方式",
+        "shipLightspeed": "光速",
+        "shipOvernight": "过夜",
+        "shipStandard": "标准",
+        "paySectionLabel": "支付",
+        "payNameLabel": "卡上的名字",
+        "payNameHolder": "名 姓",
+        "accountLabel": "信用号",
         "accountHolder": "1234567-9876-00",
-        "securityLabel": "Security Code",
+        "securityLabel": "安全码",
         "securityHolder": "123456",
-        "expDateLabel": "Expiration Date",
-        "cartTitle": "Shopping Cart",
-        "deleteAlt": "remove item from cart",
-        "totalLabel": "Total: ",
-        "orderLabel": "PLACE ORDER",
-        "termsStatement": "I have read and agree to the Terms and Conditions",
-        "termsLink": "(View)",
-        "successMessage": "Order placed successfully!",
-        "noItemMessage": "Add items to cart to checkout."
+        "expDateLabel": "截止日期",
+        "cartTitle": "购物车",
+        "deleteAlt": "从购物车中删除商品",
+        "totalLabel": "总金额: ",
+        "orderLabel": "下订单",
+        "termsStatement": "我已阅读并同意条款和条件",
+        "termsLink": "(查看)",
+        "successMessage": "订单下单成功!",
+        "noItemMessage": "将商品加入购物车结算。"
     },
     "ProductShow": {
-        "qtyLabel": "Qty: ",
-        "addToCartLabel": "ADD TO CART"
+        "qtyLabel": "数量: ",
+        "addToCartLabel": "添加到购物车"
     },
     "Cart": {
-        "cartTitle": "Shopping Cart",
-        "noItemMsg": "No items in cart.",
-        "deleteAlt": "Delete item from cart",
-        "totalTitle": "Total: ",
-        "checkoutLabel": "CHECKOUT",
-        "closeAlt": "Close Cart"
+        "cartTitle": "购物车",
+        "noItemMsg": "购物车中没有商品。",
+        "deleteAlt": "从购物车中删除商品",
+        "totalTitle": "总金额: ",
+        "checkoutLabel": "结账",
+        "closeAlt": "关闭购物车"
     },
     "Order": {
-        "statusProcessing": "Processing",
-        "statusShipped": "Shipped"
+        "statusProcessing": "加工",
+        "statusShipped": "已发货",
+        "statusDelivered": "已交付"
     },
     "OrderHistory": {
-        "historyTitle": "Order History",
-        "dateHeading": "Date",
-        "numberHeading": "Order Number",
-        "totalHeading": "Total",
-        "statusHeading": "Status"
+        "historyTitle": "订单历史记录",
+        "dateHeading": "日期",
+        "numberHeading": "订单号",
+        "totalHeading": "总金额",
+        "statusHeading": "状态"
     },
     "Error404": {
-        "errorMessage": "404 Error: Page not found."
+        "errorMessage": "404错误：页面未找到。"
     },
     "Bottombar": {
-        "menuAlt": "open sidebar menu"
+        "menuAlt": "打开侧边栏菜单"
     },
     "LocaleSelector": {
-        "localeLabel": "Locale: ",
+        "localeLabel": "语言: ",
         "localeUS": "English (USA)",
         "localeNL": "Dutch (NLD)",
-        "localeCN": "Chinese (PRC)",
+        "localeCN": "中文 (PRC)",
         "localeDE": "German (FRG)",
         "LocaleTW": "Chinese (TW)",
         "Locale419": "Spanish (LatAm)"  
     },
-    "Special": "Special"
+    "Special": "特价"
 }
