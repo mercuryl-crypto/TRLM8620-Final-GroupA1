@@ -45,15 +45,15 @@
     },
     "Home": {
         "welcomeTitle": "欢迎来到 银河 L10n 补给品!",
-        "welcomeSubtitle": "我们提供您应对银河系(G11n)挑战并赢得胜利所需的一切。",
-        "symbolAlt": "帝国信用货币符号"
+        "welcomeSubtitle": "我们提供应对银河系(G11n)挑战并赢得胜利所需的一切。",
+        "symbolAlt": "帝国信用币符号"
     },
     "Browse": {
         "browseTitleAll": "所有的",
-        "browseTitleDroids": " 机器人",
-        "browseTitleVehicles": " 车辆",
+        "browseTitleDroids": "机器人",
+        "browseTitleVehicles": "载具",
         "browseDroids": "浏览机器人",
-        "browseVehicles": "浏览车辆"
+        "browseVehicles": "浏览载具"
     },
     
     "Checkout": {
@@ -69,7 +69,7 @@
         "shipOvernight": "过夜",
         "shipStandard": "标准",
         "paySectionLabel": "支付",
-        "payNameLabel": "卡上的名字",
+        "payNameLabel": "卡片姓名",
         "payNameHolder": "名 姓",
         "accountLabel": "信用号",
         "accountHolder": "1234567-9876-00",
@@ -79,10 +79,10 @@
         "cartTitle": "购物车",
         "deleteAlt": "从购物车中删除商品",
         "totalLabel": "总金额: ",
-        "orderLabel": "下订单",
+        "orderLabel": "确认下单",
         "termsStatement": "我已阅读并同意条款和条件",
         "termsLink": "(查看)",
-        "successMessage": "订单下单成功!",
+        "successMessage": "下单成功!",
         "noItemMessage": "将商品加入购物车结算。"
     },
     "ProductShow": {
@@ -98,7 +98,7 @@
         "closeAlt": "关闭购物车"
     },
     "Order": {
-        "statusProcessing": "加工",
+        "statusProcessing": "处理中",
         "statusShipped": "已发货",
         "statusDelivered": "已交付"
     },
